@@ -90,7 +90,7 @@ export default function RichTextEditorPage() {
               </Button>
             </Link>
             <Link
-              href="https://github.com/JuliDir"
+              href="https://github.com/JuliDir/rich-text-editor"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-slate-900 dark:hover:text-slate-100 transition-colors"

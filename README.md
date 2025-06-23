@@ -1,6 +1,15 @@
 # RichTextEditor
 
+[![Demo](https://img.shields.io/badge/Demo-RichTextEditor-blue)](https://rich-text-editor-phi-ecru.vercel.app/)
+[![Licencia](https://img.shields.io/github/license/JuliDir/rich-text-editor?color=blue)](https://github.com/JuliDir/rich-text-editor/blob/main/LICENSE)
+
 Un componente de editor de texto enriquecido (WYSIWYG) para React, construido con TypeScript, Tailwind CSS y componentes de shadcn/ui. Incluye una barra de herramientas completa, soporte para atajos de teclado, integración con formularios y capacidad de generar contenido mediante IA.
+
+## 🌐 Demo en Vivo
+
+¡Prueba el editor directamente en tu navegador!
+
+**👉 [Ver Demo](https://rich-text-editor-phi-ecru.vercel.app/)**
 
 ## 🚀 Características
 
@@ -344,10 +353,6 @@ Verifica que el editor tenga el foco y que `document.execCommand` esté disponib
 
 **Julián Di Rocco**  
 📧 jgdirocco@gmail.com  
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la **MIT License** - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## 🤝 Contribuciones
 
